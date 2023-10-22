@@ -1,0 +1,23 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    
+}
+
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 25%;
+    color: gold;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+.love {
+    border: 5px solid brown;
+    width: 100%;
+}
